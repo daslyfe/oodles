@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex: 1;
+  overflow: scroll;
+  background-color: rgb(11, 193, 20);
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  flex: 1;
+  overflow: scroll;
+  margin: 0;
+}
